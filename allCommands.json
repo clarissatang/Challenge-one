@@ -1,0 +1,18 @@
+{
+  "add": {
+    "syntax": "add <mykey> <myvalue>",
+    "description": "Binds mykey with the provided myvalue."
+  },
+  "get": {
+    "syntax": "get <mykey>",
+    "description": "return the value of the given key."
+  },
+  "list":{
+    "syntax": "list",
+    "description": "list all the key/value."
+  },
+  "remove":{
+    "syntax": "remove <mykey>",
+    "description": "remove mykey with its value from the list"
+  }
+}
